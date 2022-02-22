@@ -1,20 +1,20 @@
 # Challenge Project Fullstack!
 ![Captura de tela 2021-11-08 214941](https://user-images.githubusercontent.com/30291266/140842441-76f0da80-955f-4a50-9c02-775098bdd874.png)
 
-Este desafio tem como objetivo treinar sua habilidades em construir uma aplicação fullstack e  reflete a realidade de desafios tecnicos para a posição de desenvolvedor fullstack.
+Este desafio tem como objetivo treinar sua habilidades em construir uma aplicação fullstack e  reflete a realidade de desafios técnicos para a posição de desenvolvedor Fullstack.
 
-Com esse desafio, você poderá treinar sua lógica, organização de projeto, boas práticas e os conceitos adiquridos no durante sua  jornada no curso de Web Fullstack da Digital House.
+Com esse desafio, você poderá treinar sua lógica, organização de projeto, boas práticas e os conceitos adiquridos durante sua  jornada no curso de Web Fullstack da Digital House.
 
 # Entrega
 
-Todo o código deverá estar em um repositorio publico, se preferir, pode fazer fork desse projeto com sua conta do Github.
+Todo o código deverá estar em um repositório público, se preferir, pode fazer fork desse projeto com sua conta do Github.
 
 Pedimos que todo o processo de desenvolvimento seja registrado com Commits em seu repositório.
 
 ## Ideia
 
 
-Você irá desenvolver uma Landpage de uma transportadora com a ideia de divulgar os serviços e conseguir possiveis clientes a partir de um formulário que deverá salvar as informações em uma base de dados para futuras consultas.
+Você irá desenvolver uma Landpage de uma transportadora com a ideia de divulgar os serviços e conseguir possíveis clientes a partir de um formulário que deverá salvar as informações em uma base de dados para futuras consultas.
 
 Para isso você deverá seguir o protótipo disponibilizado no figma contendo cores, fontes espaçamentos e imagens.
 
@@ -28,7 +28,7 @@ Para isso você deverá seguir o protótipo disponibilizado no figma contendo co
 O projeto deverá ser desenvolvido com as seguintes tecnologias: 
 
  - Node.JS
- - EJS (HTML | CSS | JS )
+ - EJS (HTML | CSS | JS ) ou React
  - Sequelize
  - Mysql
  - MVC
